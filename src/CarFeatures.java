@@ -3,4 +3,5 @@ public class CarFeatures {
     String model;
     String color;
     String doors;
+    String interior;
 }
